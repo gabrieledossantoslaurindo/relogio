@@ -2,19 +2,18 @@ bory{
 display: flex;
 align-items: center;
 justify-content: center;
-background: linear-gradient(120deg, #ffe53bd8,#ff2525da); 
+background: linear-gradient(120deg, #d4ba11d8,#e70a0ada); 
 height: 100vh;
 
 }
 
 .relogio{
-
-    display: flex;
+display: flex;
 align-items: center;
 justify-content: space-around;
 height: 200px;
 width: 550px ;
 background: transparent;
 border-radius: 3px;
-box-shadow: 0px , 8px , 10px , rgba(o ,0 , 15 .5);
+box-shadow: 0px , 8px , 10px , rgba(0 ,0 , 15, .5);
 }
